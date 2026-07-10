@@ -1,0 +1,15 @@
+/*
+CREATED BY: wICKRAMA
+CREATED DATE: 06/19/26
+DISCRIPTION: MONTHLY REVENUE FOR ADVENTURE WORKS
+*/
+
+SELECT
+	SUBSTR(OrderDate,1,7) AS Month,
+	SUM(TotalDue) AS MonthlyRevenue
+FROM 
+	SalesOrderHeader
+GROUP BY 
+	Month
+ORDER BY 
+	Month;

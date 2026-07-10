@@ -1,0 +1,36 @@
+category,subcategory,total_orders,total_units_sold,total_revenue,avg_unit_price
+Bikes,Road Bikes,9538,47196,43909437.51,1172.1
+Bikes,Mountain Bikes,6185,28321,36445443.94,1451.21
+Bikes,Touring Bikes,2645,14751,14296291.26,1146.2
+Components,Mountain Frames,861,11621,4713930.23,432.33
+Components,Road Frames,1016,11753,3851350.6,335.01
+Components,Touring Frames,272,3725,1642327.69,425.5
+Clothing,Jerseys,4781,22711,752259.39,40.22
+Components,Wheels,720,5273,680831.35,127.61
+Accessories,Helmets,7512,19541,484048.53,30.57
+Clothing,Shorts,1778,9967,413600.51,51.37
+Clothing,Vests,1109,6738,259488.37,47.74
+Accessories,Tires and Tubes,10030,18006,246454.53,14.05
+Clothing,Gloves,2425,13012,243511.98,20.58
+Accessories,Bike Racks,796,3166,237096.16,91.46
+Components,Cranksets,261,1107,203942.62,179.76
+Clothing,Tights,475,4589,203149.08,44.88
+Components,Handlebars,1010,3950,170591.32,44.73
+Clothing,Bib-Shorts,396,3125,167558.62,53.96
+Components,Pedals,756,3931,147483.91,37.35
+Accessories,Hydration Packs,1074,2761,105826.42,47.95
+Components,Forks,133,634,77931.69,117.43
+Components,Derailleurs,283,1166,70209.5,61.36
+Components,Brakes,295,1035,66018.71,63.88
+Accessories,Bottles and Cages,5212,10552,64274.79,6.9
+Components,Headsets,137,1009,60942.2,59.78
+Components,Saddles,526,2145,55829.39,26.17
+Components,Bottom Brackets,248,921,51826.37,56.39
+Clothing,Caps,3382,8311,51229.45,7.67
+Accessories,Fenders,2121,2121,46619.58,21.98
+Accessories,Bike Stands,249,249,39591.0,159.0
+Clothing,Socks,1143,5217,29745.13,6.85
+Accessories,Cleaners,1327,3319,18406.97,6.94
+Accessories,Locks,260,1087,16240.22,14.99
+Accessories,Pumps,267,1130,13514.69,11.99
+Components,Chains,250,774,9377.71,12.14

@@ -1,0 +1,15 @@
+salesperson_name,territory,total_orders,total_revenue,avg_order_value,revenue_pct_of_total,revenue_rank,performance_tier,aov_rank
+Linda Mitchell,Southwest,418,11695019.06,27978.51,13.21,1,Top Performer,4
+Jillian Carson,Central,473,11342385.9,23979.67,12.81,2,Top Performer,7
+Michael Blythe,Northeast,450,10475367.08,23278.59,11.83,3,Top Performer,8
+Jae Pak,United Kingdom,348,9585124.95,27543.46,10.83,4,Top Performer,5
+Tsvi Reiter,Southeast,429,8086073.68,18848.66,9.13,5,Strong,10
+Shu Ito,Southwest,242,7259567.88,29998.21,8.2,6,Strong,2
+José Saraiva,Canada,271,6683536.66,24662.5,7.55,7,Strong,6
+Ranjit Varkey Chudukatil,France,175,5087977.21,29074.16,5.75,8,Solid,3
+David Campbell,Northwest,189,4207894.6,22263.99,4.75,9,Solid,9
+Garrett Vargas,Canada,234,4069422.21,17390.69,4.6,10,Solid,12
+Pamela Ansman-Wolfe,Northwest,95,3748246.12,39455.22,4.23,11,Solid,1
+Tete Mensa-Annan,Northwest,140,2608116.38,18629.4,2.95,12,Developing,11
+Rachel Valdez,Germany,130,2062393.14,15864.56,2.33,13,Developing,13
+Lynn Tsoflias,Australia,109,1606441.45,14737.99,1.81,14,Developing,14

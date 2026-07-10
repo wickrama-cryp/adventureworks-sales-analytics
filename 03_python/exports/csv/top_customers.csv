@@ -1,0 +1,101 @@
+customerid,customer_name,customer_segment,territory,total_orders,total_spent,avg_order_value,first_order,last_order
+29818,Roger Harui,Business,Northwest,12,989184.08,82432.01,2022-06-30,2025-03-30
+29715,Andrew Dixon,Business,Southeast,12,961675.86,80139.65,2022-07-31,2025-04-30
+29722,Reuben D'sa,Business,Canada,12,954021.92,79501.83,2022-07-31,2025-04-30
+30117,Robert Vessa,Business,Southwest,12,919801.82,76650.15,2022-06-30,2025-03-30
+29614,Ryan Calafato,Business,Canada,12,901346.86,75112.24,2022-05-30,2025-02-28
+29639,Joseph Castellucio,Business,Canada,12,887090.41,73924.2,2022-07-31,2025-04-30
+29701,Kirk DeGrasse,Business,Northeast,8,841866.55,105233.32,2023-07-31,2025-04-30
+29617,Lindsey Camacho,Business,Northwest,12,834475.93,69539.66,2022-06-30,2025-03-30
+29994,Robin McGuigan,Business,Canada,12,824331.77,68694.31,2022-05-30,2025-02-28
+29646,Stacey Cereghino,Business,Southwest,12,820383.55,68365.3,2022-05-30,2025-02-28
+29580,Richard Bready,Business,Northwest,12,815914.25,67992.85,2022-05-30,2025-02-28
+29827,Valerie Hendricks,Business,Central,12,801766.21,66813.85,2022-05-30,2025-02-28
+29497,François Ferrier,Business,Northwest,12,789884.29,65823.69,2022-05-30,2025-02-28
+29716,Blaine Dockter,Business,Southwest,12,781073.72,65089.48,2022-06-30,2025-03-30
+29913,Anton Kirilov,Business,Central,8,757449.68,94681.21,2023-06-30,2025-03-30
+30103,Mandy Vance,Business,France,8,725867.17,90733.4,2023-06-30,2025-03-30
+29957,Kevin Liu,Business,Southwest,8,718258.81,89782.35,2023-07-31,2025-04-30
+29523,John Arthur,Business,Southwest,12,696703.61,58058.63,2022-06-30,2025-03-30
+29616,Barbara Calone,Business,Southwest,8,695242.23,86905.28,2023-06-30,2025-03-30
+30048,Marcia Sultan,Business,Canada,8,678828.84,84853.6,2023-05-30,2025-02-28
+29562,Steven Brown,Business,Southwest,8,665292.38,83161.55,2022-07-31,2024-04-29
+29772,Janet Gates,Business,Southwest,8,660645.94,82580.74,2023-05-30,2025-02-28
+29712,Holly Dickson,Business,France,8,653973.76,81746.72,2023-06-30,2025-03-30
+30107,Margaret Vanderkamp,Business,Northwest,12,650362.05,54196.84,2022-06-30,2025-03-30
+29924,Mitch Kennedy,Business,Central,8,644168.16,80521.02,2023-06-30,2025-03-30
+30050,Krishna Sunkammurali,Business,United Kingdom,8,631355.07,78919.38,2023-07-31,2025-04-30
+29641,Raul Casts,Business,Southwest,4,606819.61,151704.9,2024-05-29,2025-02-28
+29966,Richard Lum,Business,Northeast,12,605358.54,50446.55,2022-07-31,2025-04-30
+29997,Lola McCarthy,Business,Northwest,8,604794.78,75599.35,2023-06-30,2025-03-30
+29689,Scott Culp,Business,Northwest,8,600077.27,75009.66,2023-05-30,2025-02-28
+29486,Kim Abercrombie,Business,Central,12,584949.13,48745.76,2022-07-31,2025-04-30
+29522,Thomas Armstrong,Business,Southwest,12,554388.94,46199.08,2022-06-30,2025-03-30
+29705,Della Demott Jr,Business,Canada,12,543440.59,45286.72,2022-06-30,2025-03-30
+30112,Patricia Vasquez,Business,Northwest,8,538333.47,67291.68,2023-06-30,2025-03-30
+29546,Christopher Beck,Business,United Kingdom,8,534117.56,66764.7,2023-07-31,2025-04-30
+30000,James McCoy,Business,Canada,8,533078.28,66634.79,2023-05-30,2025-02-28
+30074,Yuping Tian,Business,Canada,8,516254.8,64531.85,2022-06-30,2024-03-29
+29919,Eugene Kogan,Business,Southwest,8,514317.53,64289.69,2023-06-30,2025-03-30
+29507,Phyllis Allen,Business,Southeast,8,502367.04,62795.88,2022-06-30,2024-03-29
+29770,Kathleen Garza,Business,Canada,8,500181.73,62522.72,2023-07-31,2025-04-30
+29559,Robert Bernacchi,Business,Northwest,8,499815.31,62476.91,2023-07-31,2025-04-30
+29923,Edward Kozlowski,Business,France,4,493816.88,123454.22,2024-06-29,2025-03-30
+29624,Joseph Cantoni,Business,Southeast,4,486937.59,121734.4,2022-06-30,2023-03-30
+29992,Sandra Maynard,Business,Southwest,12,483162.61,40263.55,2022-05-30,2025-02-28
+29901,John Kelly,Business,Southwest,12,481860.91,40155.08,2022-06-30,2025-03-30
+29834,Cheryl Herring,Business,Southwest,12,481357.92,40113.16,2022-07-31,2025-04-30
+29825,James Hendergart,Business,Southeast,12,475892.04,39657.67,2022-05-30,2025-02-28
+30046,Elizabeth Sullivan,Business,Southwest,8,471689.92,58961.24,2023-07-31,2025-04-30
+29690,Conor Cunningham,Business,Northwest,12,470639.55,39219.96,2022-07-31,2025-04-30
+29707,Helen Dennis,Business,Southeast,8,469525.75,58690.72,2023-07-31,2025-04-30
+29734,Jauna Elson,Business,Canada,12,469357.29,39113.11,2022-05-30,2025-02-28
+29703,Stefan Delmarco,Business,Southwest,8,465429.57,58178.7,2022-06-30,2024-03-29
+30049,Nate Sun,Business,France,8,461467.32,57683.41,2023-07-31,2025-04-30
+29861,Phyllis Huntsman,Business,Central,4,460174.86,115043.71,2022-06-30,2023-03-30
+29844,Nancy Hirota,Business,Northeast,12,452727.93,37727.33,2022-05-30,2025-02-28
+29744,John Evans,Business,Southwest,8,449330.82,56166.35,2023-05-30,2025-02-28
+29950,Yale Li,Business,Canada,12,449023.1,37418.59,2022-07-31,2025-04-30
+29702,Aidan Delaney,Business,Southwest,12,447403.49,37283.62,2022-07-31,2025-04-30
+29888,Brannon Jones,Business,Southeast,12,445392.96,37116.08,2022-06-30,2025-03-30
+29724,Bernard Duerr,Business,Northeast,12,444336.98,37028.08,2022-06-30,2025-03-30
+29940,Robertson Lee,Business,France,4,443136.59,110784.15,2024-06-29,2025-03-30
+29651,Lee Chapla,Business,Central,12,442256.88,36854.74,2022-07-31,2025-04-30
+30067,Phyllis Thomas,Business,Canada,12,442054.09,36837.84,2022-05-30,2025-02-28
+29885,David Johnson,Business,Northwest,8,435986.13,54498.27,2022-06-30,2024-03-29
+29714,Rudolph Dillon,Business,Canada,12,432800.34,36066.69,2022-07-31,2025-04-30
+29489,Frances Adams,Business,Southwest,12,428350.53,35695.88,2022-05-30,2025-02-28
+29955,David Liu,Business,Central,12,421079.06,35089.92,2022-06-30,2025-03-30
+29938,Frank Campbell,Business,Southwest,12,420767.71,35063.98,2022-07-31,2025-04-30
+29637,Donna Carreras,Business,Southwest,12,407563.01,33963.58,2022-07-31,2025-04-30
+29594,Dave Browning,Business,Northeast,4,402874.39,100718.6,2023-05-30,2024-02-28
+29987,Frank Mart¡nez,Business,Southwest,4,402574.86,100643.71,2024-05-29,2025-02-28
+29647,Baris Cetinok,Business,Northeast,8,402240.8,50280.1,2023-05-30,2025-02-28
+29998,Jane McCarty,Business,Southwest,4,399980.88,99995.22,2023-07-31,2024-04-29
+29587,John Brooks,Business,United Kingdom,8,399672.86,49959.11,2023-05-30,2025-02-28
+29929,Jeffrey Kurtz,Business,Southwest,8,393520.8,49190.1,2023-07-31,2025-04-30
+29629,Carlton Carlisle,Business,Canada,4,389437.66,97359.41,2024-07-30,2025-04-30
+30094,Sairaj Uddin,Business,Southwest,8,381763.55,47720.44,2023-06-30,2025-03-30
+29995,Stacie Mcanich,Business,Germany,4,381608.0,95402.0,2024-06-29,2025-03-30
+30109,Nieves Vargas,Business,Central,8,378936.09,47367.01,2023-05-30,2025-02-28
+29704,Shawn Demicell,Business,Southeast,8,377088.62,47136.08,2023-05-30,2025-02-28
+29692,Thierry D'Hers,Business,Canada,8,366009.65,45751.21,2023-05-30,2025-02-28
+29736,Terry Eminhizer,Business,United Kingdom,4,363872.04,90968.01,2024-07-30,2025-04-30
+30043,Min Su,Business,France,8,360816.55,45102.07,2023-07-31,2025-04-30
+29895,Lori Kane,Business,Canada,8,358195.77,44774.47,2023-06-30,2025-03-30
+29560,Matthias Berndt,Business,Southwest,8,356524.08,44565.51,2023-06-30,2025-03-30
+29853,Juanita Holman,Business,Southwest,8,350717.99,43839.75,2022-06-30,2024-03-29
+29618,Gustavo Camargo,Business,United Kingdom,8,348640.95,43580.12,2023-06-30,2025-03-30
+29783,Mary Gimmi,Business,Central,8,348070.07,43508.76,2023-05-30,2025-02-28
+29615,Mari Caldwell,Business,United Kingdom,4,340396.32,85099.08,2024-06-29,2025-03-30
+29904,Mary Kesslep,Business,United Kingdom,8,340132.13,42516.52,2023-06-30,2025-03-30
+29509,Michael Allen,Business,Northeast,12,337311.27,28109.27,2022-06-30,2025-03-30
+29792,Abigail Gonzalez,Business,Southwest,8,331823.86,41477.98,2023-06-30,2025-03-30
+29956,Jinghao Liu,Business,Southwest,8,331231.3,41403.91,2023-07-31,2025-04-30
+29896,Judith Krane,Business,Southeast,8,330853.45,41356.68,2023-06-30,2025-03-30
+29658,Mike Choi,Business,Northeast,8,329150.84,41143.86,2023-05-30,2025-02-28
+29910,Shane Kim,Business,Canada,8,329064.43,41133.05,2023-06-30,2025-03-30
+29698,Jacob Dean,Business,Canada,12,326883.55,27240.3,2022-06-30,2025-03-30
+29515,Maxwell Amland,Business,Canada,8,326175.98,40772.0,2022-06-30,2024-09-29
+30065,Karen Theisen,Business,Northeast,8,325324.05,40665.51,2023-05-30,2025-02-28
+29889,Jean Jordan,Business,Southwest,8,323176.28,40397.03,2022-05-30,2024-02-28

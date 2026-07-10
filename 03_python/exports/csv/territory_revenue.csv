@@ -1,0 +1,11 @@
+territory,country,region,total_orders,total_customers,total_revenue,avg_order_value
+Southwest,US,North America,6224,4565,27150594.59,4362.24
+Canada,CA,North America,4067,1677,18398929.19,4523.96
+Northwest,US,North America,4594,3428,18061660.37,3931.58
+Australia,AU,Pacific,6843,3625,11814376.1,1726.49
+Central,US,North America,385,69,8913299.25,23151.43
+Southeast,US,North America,486,91,8884099.37,18280.04
+United Kingdom,GB,Europe,3219,1951,8574048.71,2663.58
+France,FR,Europe,2672,1844,8119749.35,3038.83
+Northeast,US,North America,352,57,7820209.63,22216.5
+Germany,DE,Europe,2623,1812,5479819.58,2089.14

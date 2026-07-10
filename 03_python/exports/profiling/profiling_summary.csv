@@ -1,0 +1,7 @@
+dataset,rows,columns,missing_values,duplicate_rows
+monthly_revenue,38,6,0,0
+territory_revenue,10,7,0,0
+category_revenue,35,6,0,0
+top_customers,100,9,0,0
+salesperson_performance,14,5,0,0
+yoy_growth,3,5,2,0
