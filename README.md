@@ -27,13 +27,15 @@ The analysis covers 31,465 orders and $123M in revenue across 2022 to 2024.
 
 ## Project Structure
 
+```
 adventureworks-sales-analytics/
-    ├── 01_exploration/     # Initial queries to understand the data
-    ├── 02_analysis/        # Business analysis queries
-    ├── 03_python/          # Data extraction, profiling, transformation, charts
-    ├── 04_excel/           # Excel workbook with pivot tables and dashboard
-    ├── 05_tableau/         # Tableau packaged workbook
-    └── README.md
+├── 01_exploration/     # Initial queries to understand the data
+├── 02_analysis/        # Business analysis queries
+├── 03_python/          # Data extraction, profiling, transformation, charts
+├── 04_excel/           # Excel workbook with pivot tables and dashboard
+├── 05_tableau/         # Tableau packaged workbook
+└── README.md
+```
 
 ## What I Was Trying to Answer
 
