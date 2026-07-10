@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.twbr
+~*.twbx
+.env
+*.hyper

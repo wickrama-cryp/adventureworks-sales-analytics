@@ -7,6 +7,15 @@ The analysis covers 31,465 orders and $123M in revenue across 2022 to 2024.
 ## Live Dashboard
 [View on Tableau Public](https://public.tableau.com/views/AdventureWorksSalesAnalytics2022-2024/ExecutiveOverview)
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](images/Executive_Overview.png)
+
+### Product & Customer Analysis
+![Product & Customer Analysis](images/Product___Customer_Analysis.png)
+
+
 ## Tools Used
 
 - **PostgreSQL** on Neon (cloud database — no local install needed)
@@ -19,12 +28,12 @@ The analysis covers 31,465 orders and $123M in revenue across 2022 to 2024.
 ## Project Structure
 
 adventureworks-sales-analytics/
-├── 01_exploration/     # Initial queries to understand the data
-├── 02_analysis/        # Business analysis queries
-├── 03_python/          # Data extraction, profiling, transformation, charts
-├── 04_excel/           # Excel workbook with pivot tables and dashboard
-├── 05_tableau/         # Tableau packaged workbook
-└── README.md
+    ├── 01_exploration/     # Initial queries to understand the data
+    ├── 02_analysis/        # Business analysis queries
+    ├── 03_python/          # Data extraction, profiling, transformation, charts
+    ├── 04_excel/           # Excel workbook with pivot tables and dashboard
+    ├── 05_tableau/         # Tableau packaged workbook
+    └── README.md
 
 ## What I Was Trying to Answer
 
@@ -75,3 +84,4 @@ The official Microsoft AdventureWorks CSV files use a mix of tab and custom deli
 ## Author
 
 Wickrama | [LinkedIn](https://www.linkedin.com/in/wickrama) | [Tableau Public](https://public.tableau.com/app/profile/wickrama.wickramarachchi)
+
