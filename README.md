@@ -18,7 +18,7 @@ The analysis covers 31,465 orders and $123M in revenue across 2022 to 2024.
 
 ## Tools Used
 
-- **PostgreSQL** on Neon (cloud database — no local install needed)
+- **PostgreSQL** on Neon (cloud database: no local install needed)
 - **DBeaver** for writing and testing SQL queries
 - **Python** with pandas, matplotlib, seaborn, and SQLAlchemy
 - **Microsoft Excel** for pivot tables and summary reporting
